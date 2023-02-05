@@ -1,0 +1,5 @@
+/Users/alenakatanskaya/Desktop/HW_5_C/Ex_35/obj/Debug/net6.0/Ex_35.csproj.AssemblyReference.cache
+/Users/alenakatanskaya/Desktop/HW_5_C/Ex_35/obj/Debug/net6.0/Ex_35.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alenakatanskaya/Desktop/HW_5_C/Ex_35/obj/Debug/net6.0/Ex_35.AssemblyInfoInputs.cache
+/Users/alenakatanskaya/Desktop/HW_5_C/Ex_35/obj/Debug/net6.0/Ex_35.AssemblyInfo.cs
+/Users/alenakatanskaya/Desktop/HW_5_C/Ex_35/obj/Debug/net6.0/Ex_35.csproj.CoreCompileInputs.cache
