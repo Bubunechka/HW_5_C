@@ -1,0 +1,15 @@
+/Users/alenakatanskaya/Desktop/HW_5_C/Ex_38/obj/Debug/net6.0/Ex_38.csproj.AssemblyReference.cache
+/Users/alenakatanskaya/Desktop/HW_5_C/Ex_38/obj/Debug/net6.0/Ex_38.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alenakatanskaya/Desktop/HW_5_C/Ex_38/obj/Debug/net6.0/Ex_38.AssemblyInfoInputs.cache
+/Users/alenakatanskaya/Desktop/HW_5_C/Ex_38/obj/Debug/net6.0/Ex_38.AssemblyInfo.cs
+/Users/alenakatanskaya/Desktop/HW_5_C/Ex_38/obj/Debug/net6.0/Ex_38.csproj.CoreCompileInputs.cache
+/Users/alenakatanskaya/Desktop/HW_5_C/Ex_38/bin/Debug/net6.0/Ex_38
+/Users/alenakatanskaya/Desktop/HW_5_C/Ex_38/bin/Debug/net6.0/Ex_38.deps.json
+/Users/alenakatanskaya/Desktop/HW_5_C/Ex_38/bin/Debug/net6.0/Ex_38.runtimeconfig.json
+/Users/alenakatanskaya/Desktop/HW_5_C/Ex_38/bin/Debug/net6.0/Ex_38.dll
+/Users/alenakatanskaya/Desktop/HW_5_C/Ex_38/bin/Debug/net6.0/Ex_38.pdb
+/Users/alenakatanskaya/Desktop/HW_5_C/Ex_38/obj/Debug/net6.0/Ex_38.dll
+/Users/alenakatanskaya/Desktop/HW_5_C/Ex_38/obj/Debug/net6.0/refint/Ex_38.dll
+/Users/alenakatanskaya/Desktop/HW_5_C/Ex_38/obj/Debug/net6.0/Ex_38.pdb
+/Users/alenakatanskaya/Desktop/HW_5_C/Ex_38/obj/Debug/net6.0/Ex_38.genruntimeconfig.cache
+/Users/alenakatanskaya/Desktop/HW_5_C/Ex_38/obj/Debug/net6.0/ref/Ex_38.dll
